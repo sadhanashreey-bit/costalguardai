@@ -1,0 +1,8 @@
+path: datasets/processed
+
+train: images/train
+val: images/val
+
+names:
+  0: plastic_waste
+  1: other_waste
